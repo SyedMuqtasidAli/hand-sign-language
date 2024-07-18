@@ -26,7 +26,7 @@ To get started with the Hand Sign Language Recognition project, follow these ste
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/hand-sign-language-recognition.git
+    git clone https://github.com/syed-muqtasid-ali/hand-sign-language-recognition.git
     ```
 
 2. **Navigate to the project directory**:
